@@ -161,7 +161,7 @@ h2 {
 
 .quote {
    background-color: #e5e7eb;
-   padding-left: 350px;
+   padding-left: 370px;
    padding-right: 350px;
    padding-top: 115px;
    padding-bottom: 100px;
@@ -171,7 +171,6 @@ h2 {
    display: flex;
    flex-direction: column;
    justify-content: center;
-   align-self: flex-start;
 }
 
 .quote-text {
@@ -203,12 +202,12 @@ h2 {
 .action-container {
    background-color: #3882f6;
    margin: 115px 250px;
-   padding: 50px 100px;
+   padding: 50px 130px;
    color: #e5e7eb;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   gap: 80px;
+   gap: 120px;
    border-radius: 12px;
 }
 
@@ -234,4 +233,13 @@ h3 {
    display: flex;
    justify-content: center;
    align-items: center;
+}
+
+footer {
+   background-color: #1f2937;
+   color: #f9faf8;
+   font-size: 18px;
+   text-align: center;
+   padding-top: 40px;
+   padding-bottom: 30px;
 }
